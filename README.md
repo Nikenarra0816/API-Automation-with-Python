@@ -40,11 +40,12 @@ Contributions are welcome! Feel free to fork this project, submit issues, and ma
 Follow these steps to get the project up and running:
 
 1. **Clone the repository**:
- ```bash
- - git clone https://github.com/Nikenarra0816/API-Automation-with-Python.git
- - cd API-Automation-with-Python
+   ```bash
+   - git clone https://github.com/Nikenarra0816/API-Automation-with-Python.git
+   - cd API-Automation-with-Python
+
 
 2. **Install the required dependencies & run the tests:**
-  ```bash
-  - pip install -r requirements.txt
-  - python run_tests_gui.py
+   ```bash
+   - pip install -r requirements.txt
+   - python run_tests_gui.py
