@@ -31,9 +31,6 @@ The project includes the following test cases:
 - **Test POST new post ✍️**: Verifies that a new post can be created with the `/posts` endpoint and the returned data is accurate.
 - **Test DELETE a post 🗑️**: Verifies that a post can be deleted using the `/posts/{id}` endpoint.
 
-## Contributing 🤝
-Contributions are welcome! Feel free to fork this project, submit issues, and make pull requests. Together, we can make this project even better! 🚀
-
 
 ## Installation 🔧
 
@@ -49,3 +46,7 @@ Follow these steps to get the project up and running:
    ```bash
    - pip install -r requirements.txt
    - python run_tests_gui.py
+
+
+## Contributing 🤝
+Contributions are welcome! Feel free to fork this project, submit issues, and make pull requests. Together, we can make this project even better! 🚀
